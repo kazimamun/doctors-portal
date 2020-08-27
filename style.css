@@ -1,0 +1,18 @@
+html{ margin:0 auto; }
+
+form{
+    border: 1px solid gray;
+    width: 240px;
+    padding: 25px 0px 25px 44px;
+}
+
+ul>li{
+    list-style: none;
+    border: 1px solid limegreen;
+    width: 200px;
+    text-align: center;
+    padding: 10px 0px;
+}
+#details{
+    display: none;
+}
